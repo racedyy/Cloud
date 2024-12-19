@@ -1,0 +1,10 @@
+D:\itucedric\L3\S5\Mr Rojo\Projet\api_dock\src\main\java\com\identity\provider\dto\UserDto.java
+D:\itucedric\L3\S5\Mr Rojo\Projet\api_dock\src\main\java\com\identity\provider\repository\UserRepository.java
+D:\itucedric\L3\S5\Mr Rojo\Projet\api_dock\src\main\java\com\identity\provider\service\UserService.java
+D:\itucedric\L3\S5\Mr Rojo\Projet\api_dock\src\main\java\com\identity\provider\IdentityProviderApplication.java
+D:\itucedric\L3\S5\Mr Rojo\Projet\api_dock\src\main\java\com\identity\provider\model\User.java
+D:\itucedric\L3\S5\Mr Rojo\Projet\api_dock\src\main\java\com\identity\provider\config\SecurityConfig.java
+D:\itucedric\L3\S5\Mr Rojo\Projet\api_dock\src\main\java\com\identity\provider\enums\Role.java
+D:\itucedric\L3\S5\Mr Rojo\Projet\api_dock\src\main\java\com\identity\provider\exception\GlobalExceptionHandler.java
+D:\itucedric\L3\S5\Mr Rojo\Projet\api_dock\src\main\java\com\identity\provider\UserManagementApplication.java
+D:\itucedric\L3\S5\Mr Rojo\Projet\api_dock\src\main\java\com\identity\provider\controller\UserController.java

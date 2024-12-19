@@ -1,0 +1,13 @@
+com\identity\provider\UserManagementApplication.class
+com\identity\provider\dto\UserDto$LoginRequest.class
+com\identity\provider\IdentityProviderApplication.class
+com\identity\provider\controller\UserController.class
+com\identity\provider\enums\Role.class
+com\identity\provider\model\User$UserBuilder.class
+com\identity\provider\repository\UserRepository.class
+com\identity\provider\dto\UserDto$RegisterRequest.class
+com\identity\provider\dto\UserDto$UpdateRequest.class
+com\identity\provider\dto\UserDto$UserResponse.class
+com\identity\provider\dto\UserDto.class
+com\identity\provider\model\User.class
+com\identity\provider\service\UserService.class
